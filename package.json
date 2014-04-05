@@ -1,0 +1,26 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "Hello World",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottbolten/nwen304-2014-lab2.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Scott Bolten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottbolten/nwen304-2014-lab2/issues"
+  },
+  "homepage": "https://github.com/scottbolten/nwen304-2014-lab2",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
